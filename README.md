@@ -28,12 +28,6 @@ src/index.css — Global styles
 
 tailwind.config.js — Tailwind CSS configuration
 
-To build for production:
-
-```bash
-npm run build
-npm run preview
-```
 
 ## Project structure
 

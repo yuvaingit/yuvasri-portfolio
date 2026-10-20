@@ -21,8 +21,11 @@ HTML & CSS
 
 📂 Project Structure
 src/assets/ — Images and other assets
+
 src/ — Application components and source code
+
 src/index.css — Global styles
+
 tailwind.config.js — Tailwind CSS configuration
 
 To build for production:

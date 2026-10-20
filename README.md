@@ -1,23 +1,29 @@
 # Yuvasri N — Portfolio
 
-A dark, premium, animation-first portfolio built with **React + Vite + Tailwind CSS + Framer Motion**.
+Welcome to my personal portfolio repository! This project showcases my profile, skills, projects, and contact information in one place.
 
-## Highlights
+🌐 About the Portfolio
+My portfolio is designed to present my technical skills, projects, and professional background through a clean, modern, and responsive interface.
 
-- **Signature device intro** — a laptop mockup (auto-swaps to tablet/phone on smaller screens) boots a terminal sequence and reveals a "View Yuvasri's Profile" button, which transitions smoothly into the homepage.
-- **Tinder-inspired profile card** — 3D tilt on hover, layered depth, and a detail reveal — kept fully professional.
-- **Case-study project modals** — cards morph into full case studies using shared-layout animation.
-- **All content sourced from the resume** — see `src/data/resumeData.js`, the single source of truth for every section (education, skills, projects, experience, certifications, achievements).
-- Dark theme only: black / charcoal / navy / white·grey text / a single restrained blue accent — no purple, no glassmorphism, no percentage bars.
+🚀 Features
 
-## Getting started
+👩‍💻 Personal profile and introduction
+🛠️ Technical skills and project showcase
+📩 Contact form for professional inquiries
+🎨 Modern UI with animations and custom styling
+📱 Responsive design for different screen sizes
 
-```bash
-npm install
-npm run dev
-```
+🛠️ Built With
+React
+Tailwind CSS
+JavaScript
+HTML & CSS
 
-Then open the printed local URL (usually `http://localhost:5173`).
+📂 Project Structure
+src/assets/ — Images and other assets
+src/ — Application components and source code
+src/index.css — Global styles
+tailwind.config.js — Tailwind CSS configuration
 
 To build for production:
 

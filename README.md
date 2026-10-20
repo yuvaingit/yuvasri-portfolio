@@ -50,7 +50,6 @@ src/
 ```
 
 ## Notes
+The photograph displayed on this portfolio belongs to Yuvasri and is intended solely for personal portfolio and professional identification purposes. Unauthorized downloading, copying, reproduction, redistribution, modification, or use of this photograph for any other purpose without prior written permission is strictly prohibited.
 
-- The profile photo was extracted directly from the uploaded resume PDF and is quite small (161×166px). For a sharper hero/profile card, swap in a higher-resolution photo at `src/assets/yuvasri-photo.png` (keep the same filename, or update the import in `ProfileCard.jsx`).
-- The contact form opens the visitor's email client via a `mailto:` link (no backend) — wire it to a form service (Formspree, Resend, etc.) if you want submissions collected server-side.
-- Colors, fonts and animation timing are all centralized in `tailwind.config.js` and `src/index.css`.
+© 2026 Yuvasri. All rights reserved.
